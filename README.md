@@ -18,6 +18,9 @@ reference materials available freely on the web. The one glaring exception is
 the Objective-C example, which I shamelessly stole from [this StackOverflow
 question](http://stackoverflow.com/questions/7473246/compile-an-ios-objective-c-command-line-app-through-gcc-on-mac).
 
+Contributions from others in the GitHub community are marked as such in the
+list below.
+
 ## Languages
 
  * [Bash](./bash/)
@@ -26,6 +29,7 @@ question](http://stackoverflow.com/questions/7473246/compile-an-ios-objective-c-
  * [COBOL](./cobol/)
  * [CoffeeScript](./coffeescript/)
  * [Erlang](./erlang/)
+ * [Fortran](./fortran/) - by [DanmerZ](https://github.com/DanmerZ)
  * [Go](./go/)
  * [Java](./java/)
  * [JavaScript](./javascript/)
