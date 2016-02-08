@@ -1,5 +1,5 @@
 program world
 
-print*, "hello world"
+print "(a,$)", "hello world"
 
 end program world
