@@ -1,5 +1,3 @@
-CC=gcc
-
 hellomake: brainfuck-c/bw
 	./brainfuck-c/bf world.bf
 
