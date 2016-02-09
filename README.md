@@ -32,6 +32,7 @@ list below.
  * [Erlang](./erlang/)
  * [Fortran](./fortran/) - by [DanmerZ](https://github.com/DanmerZ)
  * [Go](./go/)
+ * [Haskell](./haskell/) - by [jackmott](https://github.com/jackmott)
  * [Java](./java/)
  * [JavaScript](./javascript/)
  * [Lua](./lua/)
