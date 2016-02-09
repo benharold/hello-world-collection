@@ -1,2 +1,1 @@
-
-printfn "Hello World"
+printf "hello world"
