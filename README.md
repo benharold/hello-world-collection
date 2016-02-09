@@ -24,6 +24,7 @@ list below.
 ## Languages
 
  * [Bash](./bash/)
+ * [Brainfuck](./brainfuck/)
  * [C](./c/)
  * [C#](./csharp/) - by [jackmott](https://github.com/jackmott)
  * [C++](./cpp/) - by [RobLoach](https://github.com/RobLoach)
