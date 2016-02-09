@@ -1,6 +1,6 @@
 # COBOL Hello World
 
-'brew install gnu-cobol'
+`brew install gnu-cobol`
 
 * The source code is in `world.cobol`
 * Compile it: `cobc -c -free -x world.cobol`
