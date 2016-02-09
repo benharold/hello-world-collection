@@ -26,6 +26,7 @@ list below.
  * [Bash](./bash/)
  * [C](./c/)
  * [C#](./csharp/) - by [jackmott](https://github.com/jackmott)
+ * [C++](./cpp/) - by [RobLoach](https://github.com/RobLoach)
  * [Clojure](./clojure/)
  * [COBOL](./cobol/)
  * [CoffeeScript](./coffeescript/)
