@@ -30,6 +30,7 @@ list below.
  * [Clojure](./clojure/)
  * [COBOL](./cobol/)
  * [CoffeeScript](./coffeescript/)
+ * [D](./d/)
  * [Erlang](./erlang/)
  * [F#](./fsharp/) - by [jackmott](https://github.com/jackmott)
  * [Fortran](./fortran/) - by [DanmerZ](https://github.com/DanmerZ)
