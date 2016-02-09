@@ -30,6 +30,7 @@ list below.
  * [COBOL](./cobol/)
  * [CoffeeScript](./coffeescript/)
  * [Erlang](./erlang/)
+ * [F#](./fsharp/) - by [jackmott](http://github.com/jackmott)
  * [Fortran](./fortran/) - by [DanmerZ](https://github.com/DanmerZ)
  * [Go](./go/)
  * [Haskell](./haskell/) - by [jackmott](https://github.com/jackmott)
