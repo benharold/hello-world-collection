@@ -25,6 +25,7 @@ list below.
 
  * [Bash](./bash/)
  * [C](./c/)
+ * [C++](./cpp/) - by [RobLoach](https://github.com/RobLoach)
  * [Clojure](./clojure/)
  * [COBOL](./cobol/)
  * [CoffeeScript](./coffeescript/)
