@@ -6,20 +6,18 @@ linebreak) at the command line. There are a few minor exceptions.
 
 ## Workstation Setup
 
-I use Mac OS X with `homebrew` as my package manager. The languages that I've
+I use Mac OS X with `[homebrew](http://brew.sh/)` as my package manager. The languages that I've
 used are either pre-installed with Mac OS X, installed with the Mac OS
 Developer Tools or installed with `homebrew`. CoffeeScript requires
 the corresponding node module is installed globally.
 
-## Credit
+## Contributions
 
-Most of the applications were written by myself with the aid of official
-reference materials available freely on the web. The one glaring exception is
-the Objective-C example, which I shamelessly stole from [this StackOverflow
-question](http://stackoverflow.com/questions/7473246/compile-an-ios-objective-c-command-line-app-through-gcc-on-mac).
+Many of the applications were written by myself with the aid of official
+reference materials available freely on the web. Contributions from others
+in the GitHub community are marked as such in the list below.
 
-Contributions from others in the GitHub community are marked as such in the
-list below.
+The Objective-C example originally came from [this StackOverflow question](http://stackoverflow.com/questions/7473246/compile-an-ios-objective-c-command-line-app-through-gcc-on-mac).
 
 ## Languages
 
@@ -31,6 +29,7 @@ list below.
  * [Clojure](./clojure/)
  * [COBOL](./cobol/)
  * [CoffeeScript](./coffeescript/)
+ * [D](./d/) - by [RobLoach](https://github.com/RobLoach)
  * [Erlang](./erlang/)
  * [F#](./fsharp/) - by [jackmott](https://github.com/jackmott)
  * [Fortran](./fortran/) - by [DanmerZ](https://github.com/DanmerZ)
