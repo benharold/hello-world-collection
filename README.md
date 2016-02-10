@@ -6,10 +6,14 @@ linebreak) at the command line. There are a few minor exceptions.
 
 ## Workstation Setup
 
-I use Mac OS X with `[homebrew](http://brew.sh/)` as my package manager. The languages that I've
-used are either pre-installed with Mac OS X, installed with the Mac OS
-Developer Tools or installed with `homebrew`. CoffeeScript requires
-the corresponding node module is installed globally.
+The only prerequisite for code in this repo is that I've successfully run it on
+my machine.
+
+I use Mac OS X with `[homebrew](http://brew.sh/)` as my package manager. Most
+of the languages that I've used are either pre-installed with Mac OS X,
+installed with the Mac OS Developer Tools or installed with `homebrew`.
+CoffeeScript requires the [corresponding node module](https://www.npmjs.com/package/coffee-script)
+is installed globally.
 
 ## Contributions
 
@@ -29,6 +33,7 @@ The Objective-C example originally came from [this StackOverflow question](http:
  * [Clojure](./clojure/)
  * [COBOL](./cobol/)
  * [CoffeeScript](./coffeescript/)
+ * [Common Lisp](./common-lisp/) - by [davidselivanov](https://github.com/davidselivanov)
  * [D](./d/) - by [RobLoach](https://github.com/RobLoach)
  * [Erlang](./erlang/)
  * [F#](./fsharp/) - by [jackmott](https://github.com/jackmott)
