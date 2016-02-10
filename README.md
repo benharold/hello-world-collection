@@ -35,6 +35,7 @@ The Objective-C example originally came from [this StackOverflow question](http:
  * [CoffeeScript](./coffeescript)
  * [Common Lisp](./common-lisp) - by [davidselivanov](https://github.com/davidselivanov)
  * [D](./d) - by [RobLoach](https://github.com/RobLoach)
+ * [Emacs-Lisp](./emacs-lisp) - by [davidselivanov](https://github.com/davidselivanov)
  * [Erlang](./erlang)
  * [F#](./fsharp) - by [jackmott](https://github.com/jackmott)
  * [Fortran](./fortran) - by [DanmerZ](https://github.com/DanmerZ)
