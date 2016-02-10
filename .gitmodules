@@ -1,0 +1,3 @@
+[submodule "brainfuck/brainfuck-c"]
+	path = brainfuck/brainfuck-c
+	url = https://github.com/kgabis/brainfuck-c.git
