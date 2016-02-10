@@ -50,6 +50,7 @@ The Objective-C example originally came from [this StackOverflow question](http:
  * [Ruby](./ruby/)
  * [Rust](./rust/)
  * [Scala](./scala/)
+ * [Smalltalk](./smalltalk)
 
 ## License
 
