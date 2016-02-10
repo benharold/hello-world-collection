@@ -9,7 +9,7 @@ linebreak) at the command line. There are a few minor exceptions.
 The only prerequisite for code in this repo is that I've successfully run it on
 my machine.
 
-I use Mac OS X with `[homebrew](http://brew.sh/)` as my package manager. Most
+I use Mac OS X with [`homebrew`](http://brew.sh/) as my package manager. Most
 of the languages that I've used are either pre-installed with Mac OS X,
 installed with the Mac OS Developer Tools or installed with `homebrew`.
 CoffeeScript requires the [corresponding node module](https://www.npmjs.com/package/coffee-script)
